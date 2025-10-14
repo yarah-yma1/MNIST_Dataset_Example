@@ -23,5 +23,5 @@ To utilize this code, a Python environment is installed. Download the MNIST.py f
 # Error Handling 
 This project does not have any error handling.
 # References 
-- [1]GeeksforGeeks, “MNIST Dataset : Practical Applications Using Keras and PyTorch,” GeeksforGeeks, May 2024. https://www.geeksforgeeks.org/machine-learning/mnist-dataset/
+[1]GeeksforGeeks, “MNIST Dataset : Practical Applications Using Keras and PyTorch,” GeeksforGeeks, May 2024. https://www.geeksforgeeks.org/machine-learning/mnist-dataset/
 ‌
