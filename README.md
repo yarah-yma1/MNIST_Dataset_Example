@@ -59,8 +59,7 @@ wrapt==1.17.3
 ```
 # How to Use
 To utilize this code, a Python environment is installed. Download the MNIST.py file onto your computer into a folder. Then open that folder/file on VSCode. 
-# Error Handling 
-This project does not have any error handling.
+
 # References 
 [1]GeeksforGeeks, “MNIST Dataset : Practical Applications Using Keras and PyTorch,” GeeksforGeeks, May 2024. https://www.geeksforgeeks.org/machine-learning/mnist-dataset/
 ‌
