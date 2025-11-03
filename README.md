@@ -4,7 +4,6 @@ This project demostrates the MNIST dataset which contains a large collection of 
 - [Implementation](#implementation)
 - [Requirements](#requirments)
 - [How to Use](#how-to-use)
-- [Error Handling](#error-handling)
 - [References](#references)
 # Implementation
 The models implementation consists of an input of the MNIST dataset in which it involves a collection of 70,000 handwritten digits (0-9), with each image being 28x28 pixels. The model is trained using 25 EPOCHs in which it is passed through 25 times, with a validation split of 0.2 to prevent overfitting and validates on a specific portion of the data. 
