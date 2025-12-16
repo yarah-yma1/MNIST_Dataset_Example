@@ -1,5 +1,5 @@
 # MNIST_Dataset_Example
-This project demostrates the MNIST dataset which contains a large collection of handwritten digits used to train a neural network while utilizing TensorFlow + Keras. The goal is for demostration of image classification. This repository includes a media folder where outputs + visuals are found, a documentation folder where statistical information is found along side any other important documentations, and source code folder where codes are found. 
+This project demostrates the MNIST dataset which contains a large collection of handwritten digits used to train a neural network while utilizing TensorFlow + Keras. The goal is for demostration of image classification. This repository includes a media folder containing visual outputs and figures, a documentation folder with statistical information and supporting project documents, and a source code folder where all implementation files are stored.
 # Table Of Contents
 - [Implementation](#implementation)
 - [Requirements](#requirments)
