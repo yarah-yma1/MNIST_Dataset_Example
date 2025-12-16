@@ -6,7 +6,7 @@ This project demostrates the MNIST dataset which contains a large collection of 
 - [How to Use](#how-to-use)
 - [References](#references)
 # Implementation
-The models implementation consists of an input of the MNIST dataset in which it involves a collection of 70,000 handwritten digits (0-9), with each image being 28x28 pixels. The model is trained using 25 EPOCHs in which it is passed through 25 times, with a validation split of 0.2 to prevent overfitting and validates on a specific portion of the data. 
+The models implementation consists of an input of the MNIST dataset in which it involves a collection of 70,000 handwritten digits (0-9), with each image being 28x28 pixels. The model is trained using 25 EPOCHs in which it is passed through 25 times, with a validation split of 0.2 to prevent overfitting and validates on a specific portion of the data. Outputs are found in the media folder. 
 # Requirements 
 This project requires tensorflow, keras, and scikit-learn. It was developed using a Python environment through VSCode.
 
@@ -57,7 +57,7 @@ wheel==0.45.1
 wrapt==1.17.3
 ```
 # How to Use
-To utilize this code, a Python environment is installed. Download the MNIST.py file onto your computer into a folder. Then open that folder/file on VSCode. 
+In order to run this code, you must activate a Python environment installed on your computer and activated. Download the MNIST.py file onto your computer into a folder. Then open that folder/file on VSCode. 
 
 # References 
 [1]GeeksforGeeks, “MNIST Dataset : Practical Applications Using Keras and PyTorch,” GeeksforGeeks, May 2024. https://www.geeksforgeeks.org/machine-learning/mnist-dataset/
